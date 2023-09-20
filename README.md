@@ -1,5 +1,6 @@
+ 
 # Hunter2.0 Ros2 Qt Package
-This Source code is a ros2 package to control hunter2 which is used as a chassis of Charging Robot developed by Apas.
+ <img src="ros2_qt_template/resource/images/APAS.jpg" width="100">This Source code is a ros2 package to control hunter2 which is used as a chassis of Charging Robot developed by Apas.
 - Version 0.1
 - 30/07/2023
 
@@ -21,4 +22,5 @@ This Source code is a ros2 package to control hunter2 which is used as a chassis
 #### 3）ros-qtc-plugin plugin
   version:  10.0
   https://github.com/ros-industrial/ros_qtc_plugin/releases/download/10.0/ROSProjectManager-10.0-Linux-x86_64.zip
+
 
